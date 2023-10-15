@@ -2,8 +2,8 @@
 
 const Banner = () => {
     return (
-        <div>
-            <h2>Home Banner</h2>
+        <div className="text-center">
+            <h2 className="text-5xl">Home Page Banner</h2>
         </div>
     );
 };
